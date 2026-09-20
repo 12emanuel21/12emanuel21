@@ -31,4 +31,4 @@ Desarrollo soluciones de software robustas enfocadas en arquitecturas backend es
 
 ### 📬 Contacto
 * **GitHub:** [@12emanuel21](https://github.com/12emanuel21)
-* **LinkedIn:** [[@12emanuel21]](https://www.linkedin.com/in/emanuel-vargas-villarreal/)
+* **LinkedIn:** [@12emanuel21](https://www.linkedin.com/in/emanuel-vargas-villarreal/)

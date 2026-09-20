@@ -9,7 +9,7 @@ Desarrollo soluciones de software robustas enfocadas en arquitecturas backend es
 ### 🚀 Proyecto Destacado
 
 * **[KovalCloud](https://github.com/12emanuel21/kovalcloud)**: Plataforma SaaS B2B Multi-Tenant para el sector gastronómico. Integra captura conversacional de pedidos por WhatsApp (Meta Cloud API v22.0 y Baileys), motor NLU con Botpress, orquestación de transacciones atómicas con NestJS y Prisma, y un Kitchen Display System (KDS) reactivo en Next.js 16 mediante WebSockets y alertas de la Web Audio API.
-
+* **[vision-gesture-mouse](https://github.com/12emanuel21/vision-gesture-mouse)**: Sistema de control de interfaz gráfica (Touchless HCI) en tiempo real mediante visión artificial. Implementa filtrado cinemático EMA con MediaPipe Hands y OpenCV, emulación de eventos del SO con PyAutoGUI y HUD flotante de telemetría.
 ---
 
 ### 🛠️ Stack Tecnológico
